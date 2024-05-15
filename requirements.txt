@@ -1,0 +1,12 @@
+1 Encryption Function:
+    Create a function that takes a plain text and a key (the number of positions to shift each letter).
+    Shift each letter of the plain text by the key value to create the encrypted text.
+    Ensure that the encryption wraps around the alphabet if it reaches the end.
+
+2 Decryption Function:
+    Create a function that takes the encrypted text and the key.
+    Shift each letter of the encrypted text by the reverse of the key value to retrieve the original plain text.
+
+3 File Input/Output:
+    Implement file handling to read the content of a file, apply encryption, and write the encrypted content to a new file.
+    Create a separate function to read the encrypted file, apply decryption, and write the decrypted content to another file.
