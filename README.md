@@ -7,12 +7,14 @@ The following is just a little program which encrypts the entered string by usin
 
 * C
 * enryption
+* decryption
 
 ## Note ![Alt text](wreath.png "Optional title")
-The ceaser cipher is by todays standards obsolite and should be avoided, this is just for learning purposes
+The ceaser cipher is by today's standards obsolete and should be avoided, this is just for learning purposes
 
 ## How does it work ? ![Alt text](key.png "Optional title")
-
+First you take an alphabet, e.g. the English alphabet, then the meaning of each letter in the alphabet is shifted to the right by X digits.
+Last but not least, to decrypt the encrypted message, you need the key.
 
 ## Icons
 * Link: https://www.flaticon.com/free-icons/roman
