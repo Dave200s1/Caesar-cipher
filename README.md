@@ -16,6 +16,8 @@ The ceaser cipher is by today's standards obsolete and should be avoided, this i
 First you take an alphabet, e.g. the English alphabet, then the meaning of each letter in the alphabet is shifted to the right by X digits.
 Last but not least, to decrypt the encrypted message, you need the key.
 
+A thorough explanation about the Caeser cipher is on the following  [Wiki Page](https://en.wikipedia.org/wiki/Caesar_cipher) available.
+
 ## Icons
 * Link: https://www.flaticon.com/free-icons/roman
 * Link: https://www.flaticon.com/free-icons/key
